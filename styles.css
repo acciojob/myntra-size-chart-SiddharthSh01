@@ -1,2 +1,11 @@
-
-/* Your CSS Code here. */
+table{
+	border-style:solid;
+	width: 90vw;
+}
+.head-part{
+	background:red;
+	color:white;
+}
+.row1{
+	background:pink;
+}
